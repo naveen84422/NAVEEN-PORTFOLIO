@@ -1,44 +1,33 @@
-# NAVEEN-PORTFOLIO
-# 🚀 Personal Portfolio
 
-Welcome to my **Personal Portfolio Website**! This is a fully responsive and interactive portfolio built using **React.js, Tailwind CSS, Framer Motion, and React Icons**.
+# Hi, I'm Rutvik ! 👋
 
-## 📌 Features
-- 🌗 **Dark Mode Toggle**
-- 🎨 **Smooth Animations & Hover Effects**
-- 📄 **Downloadable Resume**
-- 💼 **Projects Showcase**
-- 🛠 **Skills Section**
-- 📞 **Contact Information with Social Links**
+``` Web development for Every single day```
+# Web development
 
-## 🛠 Tech Stack
-- **Frontend:** React.js, Tailwind CSS, Framer Motion
-- **Icons:** React Icons
-
-## 📷 Preview
-![Portfolio Screenshot](link-to-screenshot)
-
-## 🚀 Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/portfolio.git
-   ```
-2. Navigate to the project folder:
-   ```sh
-   cd portfolio
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
+Powerful web design isn't about how much you can fit on a page, it's about how effectively you can make an impact with what you have. A thoughtfully crafted small web page can create a big difference.
 
 
+<hr>
+<br>
 
+# Deploy link is
 
----
-### ⭐ Don't forget to give this repo a star if you liked it! ⭐
+## - [❗link](https://master--glittering-nougat-e1d549.netlify.app/)
+
+## 🛠 Skills
+HTML, CSS, JS
+
+<br>
+
+# Index page [starting]
+
+<br>
+
+![Logo](./assets/start_of_page.png)
+
+<br>
+
+## Authors
+
+- [@Rutvik Jaiswal](https://www.github.com/richedperson1)
 
